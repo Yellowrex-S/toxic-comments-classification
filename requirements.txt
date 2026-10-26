@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+nltk
+phik
+scikit-learn
+tqdm
+notebook
